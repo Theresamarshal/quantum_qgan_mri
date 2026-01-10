@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# MRI / large data (DO NOT PUSH)
+data/
+outputs/
+preprocessed/
+*.nii
+*.nii.gz
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
